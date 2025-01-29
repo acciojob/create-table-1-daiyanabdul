@@ -16,6 +16,6 @@ function insert_Row() {
     newRow.appendChild(cell2);
 
     // Insert the new row at the top (index 0)
-     table.insertBefore(newRow, table.firstChild);
+    table.insertBefore(newRow, table.firstChild);
 }
 
